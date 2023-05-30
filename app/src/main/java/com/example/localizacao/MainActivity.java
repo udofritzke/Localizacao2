@@ -24,6 +24,10 @@ import java.io.PrintWriter;
 import java.net.ConnectException;
 import java.util.concurrent.TimeUnit;
 
+/*
+GitHub:
+ */
+
 public class MainActivity extends AppCompatActivity {
     private static String TAG = "Localizacao";
     private FusedLocationProviderClient clienteFusedLocation;
